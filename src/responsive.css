@@ -1,0 +1,26 @@
+@media(max-width: 900px){
+    .login-left{
+        display: none;
+    }   
+}
+
+@media(max-width: 370px){
+    .login-center-options{
+        flex-direction: column;
+        align-items: center;
+        row-gap: 10px;
+    }
+
+    .login-center-buttons{
+        margin-top: 20px;
+    }
+
+    .login-center h2{
+        font-size: 3rem;
+    }
+
+    .login-center p{
+        font-size: 1.5rem;
+    }
+
+}

@@ -1,8 +1,23 @@
-# React + Vite
+# Overview
+This repository contains a simple and elegant login page built with React.js. It demonstrates the use of modern React practices and is designed to be both responsive and user-friendly.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Desktop And Tablet Screens
 
-Currently, two official plugins are available:
+![login desktop page](https://github.com/Kuzma02/Login-Page-In-React/assets/138793624/e9bbc633-2eaf-48e5-95fc-050e6666d2d9)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Phone Screen
+
+![login mobile page](https://github.com/Kuzma02/Login-Page-In-React/assets/138793624/825a6712-43f3-412d-a756-763f438e6a18)
+
+
+# Features
+- React Functional Components: Utilizes the latest React functional components for efficient rendering and state management.
+- Responsive Design: Ensures the login page looks great on devices of all sizes.
+= Custom Styling: Includes a custom CSS file for styling, demonstrating how to customize the look and feel.
+
+# Getting Started
+To get started with this project, clone the repository and install the dependencies.
+1. Make sure you have Node.js and npm installed on your computer. When you download it, you need to configure path variables. You can download it here: https://nodejs.org/
+2. Download the repository
+3. Open the downloaded folder in your terminal of choice and write: npm install
+4. After everything has installed write: npm run dev

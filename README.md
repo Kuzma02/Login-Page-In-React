@@ -1,6 +1,9 @@
 # Overview
 This repository contains a simple and elegant login page built with React.js. It demonstrates the use of modern React practices and is designed to be both responsive and user-friendly.
 
+# Do you want to see the same application with the full-stack(including back-end)
+Then visit the following Github repository: [https://github.com/Kuzma02/MERN-Login-And-Register-With-JSON-Web-Token](https://github.com/Kuzma02/MERN-Login-And-Register-With-JSON-Web-Token)
+
 # Desktop And Tablet Screens
 
 ![login desktop page](https://github.com/Kuzma02/Login-Page-In-React/assets/138793624/e9bbc633-2eaf-48e5-95fc-050e6666d2d9)
